@@ -1,2 +1,2 @@
-# maphical.github.io
+# maphicalyng.github.io
 A testing website using Notion.
